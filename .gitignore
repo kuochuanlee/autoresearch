@@ -15,9 +15,16 @@ queue/
 # Agent prompt files (generated per-session by launchers)
 CLAUDE.md
 AGENTS.md
+.gemini/
+.antigravity/
 
 # Experimental code/artifacts
 dev/
 
 # Results file
 results.tsv
+graphify-out/
+.vscode/
+
+# Environment variables
+.env
